@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed all previous "nav" tags to "div" to correspong with whatis seen in index.html */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Below I have consolidated the repeative css styles that were there into one structure that applies to all */
 .What-Services-Horiseon-Offers {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* I used the same "What-Services-Horiseon-Offers" so that you can easily distiguish between "img" and "h2" */
 .What-Services-Horiseon-Offers img {
     max-height: 200px;
 }
