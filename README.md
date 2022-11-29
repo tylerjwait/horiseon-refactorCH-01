@@ -24,7 +24,8 @@ THEN they fall in sequential order✅
 WHEN I view the title element✅
 THEN I find a concise, descriptive title✅
 
-![Screen shot of Horiseon](file:///Users/tylerjwait/horiseon-refactorCH-01/assets/images/01-html-css-git-homework-demo.png)
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/118226586/204418645-c27e4bfe-1dd8-43db-be4f-5957f05e86ea.png)
+
 
 
 
