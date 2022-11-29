@@ -30,3 +30,4 @@ THEN I find a concise, descriptive title✅
 
 
 Link to GitHub Repository- https://github.com/tylerjwait/horiseon-refactorCH-01
+Link to deployed webpage- https://tylerjwait.github.io/horiseon-refactorCH-01/
